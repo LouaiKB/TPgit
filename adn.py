@@ -35,3 +35,9 @@ def get_valid_adn(prompt='chaîne : '):
         valid = is_valid(dna)
 
 
+<<<<<<< HEAD
+=======
+
+
+get_valid_adn()
+>>>>>>> 4dd2b575806d9781d923592203e4e9dd5166b344
