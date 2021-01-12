@@ -35,6 +35,3 @@ def get_valid_adn(prompt='chaîne : '):
         valid = is_valid(dna)
 
 
-
-
-get_valid_adn()
