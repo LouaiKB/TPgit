@@ -1,3 +1,6 @@
+![Aix-Marseille logo](photo/logo.png)
+
+
 README
 ======
 
