@@ -25,7 +25,7 @@ def is_valid(adn_str):
         if i == 'a' or i == 'c' or i == 'g' or i == 't':
             counter += 1 
 
-    return True if len(adn_str) == counter else False
+    return len(adn_str) == counter 
 
 def get_valid_adn(prompt='chaîne : '):
     
@@ -34,10 +34,3 @@ def get_valid_adn(prompt='chaîne : '):
         dna = input('Entrez une chaîne valide: ')
         valid = is_valid(dna)
 
-
-<<<<<<< HEAD
-=======
-
-
-get_valid_adn()
->>>>>>> 4dd2b575806d9781d923592203e4e9dd5166b344
